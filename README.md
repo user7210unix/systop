@@ -11,13 +11,15 @@
 
 ## ⚙️ Features
 - **💻 Per-Core CPU Usage**
+- 
 - **💾 Disk I/O Stats**
+- 
 - **🌐 Network Usage**
+- 
 - **🔎 Detailed Memory Breakdown**
 
 
 
----
 
 <div align="center">
 
