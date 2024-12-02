@@ -43,6 +43,7 @@
 
 To compile and run systop, follow these steps 👇
 
+<div align="center">
 
 ```bash
 git clone https://github.com/user7210unix/systop.git
