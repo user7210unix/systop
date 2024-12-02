@@ -2,6 +2,8 @@
   <h1>🖥️ <strong>𝗦𝗬𝗦𝗧𝗢𝗣 ● 𝗔 𝗠𝗶𝗻𝗶𝗺𝗮𝗹 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝘄𝗿𝗶𝘁𝗲𝗻 𝗶𝗻 𝗖</strong> 🖥️</h1>
 </div>
 
+<div align="center">
+
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
  <h1>
