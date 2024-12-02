@@ -12,13 +12,13 @@
 
 
 ## ⚙️ Features
-- **💻 Per-Core CPU Usage**
+- **💻 Per-Core CPU Usage** Show CPU utilization for each core.
 - 
-- **💾 Disk I/O Stats**
+- **💾 Disk I/O Stats** Include read/write speeds for disks. 
 - 
-- **🌐 Network Usage**
+- **🌐 Network Usage** Show bandwidth utilization for network interfaces.
 - 
-- **🔎 Detailed Memory Breakdown**
+- **🔎 Detailed Memory Breakdown** Include PID, command, CPU%, MEM%, and more. 
 
 
 
