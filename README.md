@@ -10,13 +10,10 @@
 </div> 
 
 ## ⚙️ Features
-- **Per-Core CPU Usage:** Show CPU utilization for each core.
-- **Disk I/O Stats:** Include read/write speeds for disks.
-- **Network Usage:** Show bandwidth utilization for network interfaces.
-- **Detailed Memory Breakdown:** Include cache, buffers, and swap usage.
-- **Enhanced Process List:** Include PID, command, CPU%, MEM%, and more.
-- **Keyboard Navigation:** Allow users to interact with the process list (e.g., sort by CPU or MEM).
-- **Improved Visual Design:** Add borders, align text, and use colors to highlight critical stats.
+- **💻 Per-Core CPU Usage:** Show CPU utilization for each core.
+- **💾 Disk I/O Stats:** Include read/write speeds for disks.
+- **🌐 Network Usage:** Show bandwidth utilization for network interfaces.
+- **🔎 Detailed Memory Breakdown:** Include cache, buffers, and swap usage.
 
 
 <div align="center">
