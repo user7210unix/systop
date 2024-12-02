@@ -41,7 +41,7 @@
 
 📦 𝘽𝙪𝙞𝙡𝙙 𝙖𝙣𝙙 𝙍𝙪𝙣
 
-To compile and run systop, follow these steps:
+To compile and run systop, follow these steps 👇:
 
 
 ```bash
