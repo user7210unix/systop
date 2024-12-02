@@ -19,13 +19,13 @@
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
-##Key Bindings 🔑
+###Key Bindings 🔑
 
 > **Crtl+c** QUIT
 
 <div align="center">
 
 
-## 📦 BUILD
+###📦 BUILD
 
 ```git clone https://github.com/user7210unix/systop.git && cd systop && gcc -o systop systop.c -lncurses && ./systop```
