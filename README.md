@@ -2,10 +2,8 @@
   <h1>🖥️ <strong>𝐒𝐘𝐒𝐓𝐎𝐏 ● 𝐀 𝐌𝐢𝐧𝐢𝐦𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐰𝐫𝐢𝐭𝐞𝐧 𝐢𝐧 𝐂</strong> 🖥️</h1>
 </div>
 
----
-
 <h1>
-      <img src="showcase/lfs1.png" align="center" alt="Preview" width="650" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+      <img src="showcase/systop.png" align="center" alt="Preview" width="650" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 </div> 
 
@@ -21,7 +19,7 @@
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
----
+
 <div align="center">
 ## 🔑 Key Bindings
 
@@ -29,7 +27,6 @@
 
 <div align="center">
 
----
 
 ## 📦 BUILD
 
