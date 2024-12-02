@@ -5,10 +5,11 @@
 ---
 
 <h1>
-      <img src="showcase/lfs1.png" align="right" alt="Preview" width="650" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+      <img src="showcase/lfs1.png" align="center" alt="Preview" width="650" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 </div> 
-  
+
+<div align="center">  
 ## ⚙️ Features
 - **Per-Core CPU Usage:** Show CPU utilization for each core.
 - **Disk I/O Stats:** Include read/write speeds for disks.
@@ -21,7 +22,7 @@
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
 ---
-
+<div align="center">
 ## 🔑 Key Bindings
 
 - **Crtl+c** QUIT
