@@ -19,9 +19,7 @@
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
-
-<div align="center">
-##🔑 Key Bindings
+##Key Bindings 🔑
 
 > **Crtl+c** QUIT
 
