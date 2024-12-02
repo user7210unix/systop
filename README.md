@@ -9,13 +9,13 @@
   <div style="flex: 1; padding-right: 20px;">
     <h2>⚙️ Features</h2>
     <ul>
-      <li>💻 <strong>Per-Core CPU Usage:</strong> 🧑‍💻 Show CPU utilization for each core. 🧠</li>
-      <li>💾 <strong>Disk I/O Stats:</strong> 🚀 Include read/write speeds for disks. 📊</li>
-      <li>🌐 <strong>Network Usage:</strong> 📶 Show bandwidth utilization for network interfaces. 🌍</li>
-      <li>🧮 <strong>Detailed Memory Breakdown:</strong> 📉 Include cache, buffers, and swap usage. 🧠</li>
-      <li>🔎 <strong>Enhanced Process List:</strong> 📝 Include PID, command, CPU%, MEM%, and more. 🛠️</li>
-      <li>⌨️ <strong>Keyboard Navigation:</strong> 🔀 Allow users to interact with the process list (e.g., sort by CPU or MEM). 🔄</li>
-      <li>🎨 <strong>Improved Visual Design:</strong> 🖍️ Add borders, align text, and use colors to highlight critical stats. 💡</li>
+      <li>💻 <strong>Per-Core CPU Usage:</strong>  Show CPU utilization for each core. </li>
+      <li>💾 <strong>Disk I/O Stats:</strong>  Include read/write speeds for disks. </li>
+      <li>🌐 <strong>Network Usage:</strong> Show bandwidth utilization for network interfaces. </li>
+      <li>🧮 <strong>Detailed Memory Breakdown:</strong>  Include cache, buffers, and swap usage. </li>
+      <li>🔎 <strong>Enhanced Process List:</strong> Include PID, command, CPU%, MEM%, and more. </li>
+      <li>⌨️ <strong>Keyboard Navigation:</strong> Allow users to interact with the process list (e.g., sort by CPU or MEM). </li>
+      <li>🎨 <strong>Improved Visual Design:</strong> Add borders, align text, and use colors to highlight critical stats. </li>
     </ul>
   </div>
 
