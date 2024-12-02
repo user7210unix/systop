@@ -9,8 +9,7 @@
 </div>
 </div> 
 
-<div align="center">  
-  
+
 ## ⚙️ Features
 - **Per-Core CPU Usage:** Show CPU utilization for each core.
 - **Disk I/O Stats:** Include read/write speeds for disks.
