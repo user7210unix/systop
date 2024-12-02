@@ -1,6 +1,3 @@
-# systop
-A Minimal System Information Program writen in C
-
 <div align="center">
   <h1>🖥️ <strong>𝐒𝐘𝐒𝐓𝐎𝐏 ● 𝐀 𝐌𝐢𝐧𝐢𝐦𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐰𝐫𝐢𝐭𝐞𝐧 𝐢𝐧 𝐂</strong> 🖥️</h1>
 </div>
