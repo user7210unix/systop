@@ -10,10 +10,10 @@
 </div> 
 
 ## ⚙️ Features
-- **💻 Per-Core CPU Usage:** Show CPU utilization for each core.
-- **💾 Disk I/O Stats:** Include read/write speeds for disks.
-- **🌐 Network Usage:** Show bandwidth utilization for network interfaces.
-- **🔎 Detailed Memory Breakdown:** Include cache, buffers, and swap usage.
+- **💻 Per-Core CPU Usage**
+- **💾 Disk I/O Stats**
+- **🌐 Network Usage**
+- **🔎 Detailed Memory Breakdown**
 
 
 <div align="center">
