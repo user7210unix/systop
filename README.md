@@ -19,11 +19,12 @@
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
+<div align="center">
+
+
 𝐊𝐞𝐲 𝐁𝐢𝐧𝐝𝐢𝐧𝐠𝐬 🔑
 
 > **Crtl+c** QUIT
-
-<div align="center">
 
 
 𝐁𝐔𝐈𝐋𝐃 📦
