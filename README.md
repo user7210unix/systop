@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🖥️ <strong>𝐒𝐘𝐒𝐓𝐎𝐏 ● 𝐀 𝐌𝐢𝐧𝐢𝐦𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐰𝐫𝐢𝐭𝐞𝐧 𝐢𝐧 𝐂</strong> 🖥️</h1>
+  <h1>🖥️ <strong>𝗦𝗬𝗦𝗧𝗢𝗣 ● 𝗔 𝗠𝗶𝗻𝗶𝗺𝗮𝗹 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝘄𝗿𝗶𝘁𝗲𝗻 𝗶𝗻 𝗖</strong> 🖥️</h1>
 </div>
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
