@@ -9,6 +9,8 @@
 </div>
 </div> 
 
+
+
 ## ⚙️ Features
 - **💻 Per-Core CPU Usage**
 - 
@@ -18,6 +20,10 @@
 - 
 - **🔎 Detailed Memory Breakdown**
 
+
+
+
+---
 
 
 
