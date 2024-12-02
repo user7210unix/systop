@@ -21,9 +21,9 @@
 
 
 <div align="center">
-## 🔑 Key Bindings
+##🔑 Key Bindings
 
-- **Crtl+c** QUIT
+> **Crtl+c** QUIT
 
 <div align="center">
 
